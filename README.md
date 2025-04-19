@@ -54,3 +54,10 @@ This project implements a machine learning model to predict house prices based o
 - Experiment with more advanced feature engineering techniques
 - Test ensemble methods for potential performance gains
 - Implement hyperparameter tuning for model optimization
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+For any queries, reach out at rcrathod13@gmail.com or open an issue on GitHub!
